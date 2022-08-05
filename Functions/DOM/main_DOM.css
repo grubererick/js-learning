@@ -1,0 +1,12 @@
+.aqua-bg {
+  background-color: aquamarine;
+  color: blue;
+}
+
+.visible {
+  display: block;
+}
+
+.invisible {
+  display: none;
+}
